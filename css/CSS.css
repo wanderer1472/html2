@@ -1,0 +1,27 @@
+body {
+    background: var(--tg-theme-bg-color);
+    color: var(--tg-theme-text-color);
+}
+.conteiner {
+    display: inline-block;
+    border: 3px solid #4d4d4d;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+    color: white;
+}
+div img {
+    width: 100px;
+}
+div p button {
+    background: #a88a04;
+    font-size: 15px;
+    margin-top: 10px;
+}
+div h1 {
+    color: #ffffff;
+    text-align: center;
+}
+div p {
+    font-size: 13px;
+}
